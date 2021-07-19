@@ -1,11 +1,19 @@
 Filename: 
 README.txt
 
+
+-- FOLIO -- 
 Directory: 
 ~/Desktop/SOU/SU/_Readings
 
+-- HOME DELL -- 
+/c/Users/Chavdar/Desktop/eamLead/teamLeadReadings
+
+
 ToC:
-	
+
+[cloud_academy_notes] -- this contains my notes making Cloud Academy lerning pathways and exams
+
 [1]. better_team_decisions.pdf -- A 10-Point Checklist for Better Team Decisions
 [2]. give_feedback.pdf -- How to Give Feedback
 [3]. making_change_tips.pdf -- 25 Tips to Making a Change
